@@ -1,1 +1,8 @@
-<h1>Hello</h1>
+<html>
+    <head>
+        <title>Login Page</title>
+    </head>
+    <body>
+        <h1>Welcome to the login page ${name}!
+    </body>
+</html>
